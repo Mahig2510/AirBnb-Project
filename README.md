@@ -1,22 +1,22 @@
-# 🏡 Wanderlust
+# Wanderlust
 
 **Wanderlust** is a full-stack travel accommodation platform inspired by Airbnb that enables users to discover, create, review, and manage unique stays across different destinations. The application incorporates secure authentication and authorization, cloud-based image storage, category filtering, search functionality, review management, and ownership-based access control to provide a seamless user experience.
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
 **Deployed Application:**  
-[🌐 Visit Wanderlust](https://wanderlust-airbnb-a87r.onrender.com/)
+[Visit Wanderlust](https://wanderlust-airbnb-a87r.onrender.com/)
 
 🎥 **Project Demo Video:**  
-[🎬 Watch the Demo](https://drive.google.com/file/d/1586Diij3bVsVGeQYSXgktZSHaKbrMe6I/view?usp=sharing)
+[Watch the Demo](https://drive.google.com/file/d/1586Diij3bVsVGeQYSXgktZSHaKbrMe6I/view?usp=sharing)
 
 ---
 
-# ✨ Features
+# Features
 
-## 🏠 Listings Management
+## Listings Management
 
 - View all available travel listings.
 - Create new listings with image uploads.
@@ -26,7 +26,7 @@
 
 ---
 
-## 🔐 Authentication & Authorization
+## Authentication & Authorization
 
 - Secure user registration and login using Passport.js.
 - Session-based authentication.
@@ -38,7 +38,7 @@
 
 ---
 
-## ⭐ Reviews & Ratings
+## Reviews & Ratings
 
 - Add reviews with star ratings.
 - View reviews for each listing.
@@ -47,7 +47,7 @@
 
 ---
 
-## 👤 Ownership-Based Access Control
+## Ownership-Based Access Control
 
 - Listing owners can edit or delete only their own listings.
 - Review authors can delete only their own reviews.
@@ -55,7 +55,7 @@
 
 ---
 
-## 🏷️ Category Filtering
+## Category Filtering
 
 Browse listings by categories such as:
 
@@ -70,21 +70,21 @@ Browse listings by categories such as:
 
 ---
 
-## 🔍 Search Functionality
+## Search Functionality
 
 - Search listings by country name.
 - Quickly discover accommodations across different destinations.
 
 ---
 
-## 💰 Tax Inclusive Pricing
+## Tax Inclusive Pricing
 
 - Toggle tax-inclusive pricing.
 - Automatically calculates and displays prices including **18% GST**.
 
 ---
 
-## 📢 User Experience
+## User Experience
 
 - Flash messages for successful and failed operations.
 - Responsive and intuitive interface.
@@ -92,7 +92,7 @@ Browse listings by categories such as:
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 ## Backend
 
@@ -132,7 +132,7 @@ Browse listings by categories such as:
 
 ---
 
-# ⚙️ Installation & Setup
+# Installation & Setup
 
 ## 1. Clone the Repository
 
@@ -189,7 +189,7 @@ https://wanderlust-airbnb-a87r.onrender.com/
 
 ---
 
-# 🔐 Security Features
+# Security Features
 
 - Secure authentication using Passport.js.
 - Session persistence using MongoDB Store.
@@ -200,7 +200,7 @@ https://wanderlust-airbnb-a87r.onrender.com/
 
 ---
 
-# 🌐 Deployment
+# Deployment
 
 The application is deployed on **Render** and connected to **MongoDB Atlas** for cloud database management.
 
@@ -212,6 +212,6 @@ https://wanderlust-airbnb-a87r.onrender.com/
 
 ---
 
-# 📜 License
+# License
 
 This project is intended for educational and portfolio purposes.
