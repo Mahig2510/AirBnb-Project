@@ -9,7 +9,7 @@
 **Deployed Application:**  
 [Visit Wanderlust](https://wanderlust-airbnb-a87r.onrender.com/)
 
-🎥 **Project Demo Video:**  
+**Project Demo Video:**  
 [Watch the Demo](https://drive.google.com/file/d/1586Diij3bVsVGeQYSXgktZSHaKbrMe6I/view?usp=sharing)
 
 ---
