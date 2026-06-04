@@ -21,7 +21,7 @@ const userRouter = require("./routes/user.js");
 
 
 const localDbUrl = "mongodb://127.0.0.1:27017/wanderlust";
-let dbUrl = process.env.ATLASDB_URL || localDbUrl;
+let dbUrl = process.env.ATLASDB_URL ;
 
 
 app.set("view engine", "ejs");
